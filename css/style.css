@@ -33,7 +33,7 @@ nav{
 	background-color: #fff;
 	font-size: 14px;
 	margin-top: 40px;
-	margin-left: 160px;
+	margin-left: 190px;
 }
 .topnav a{
 	color: #000;
@@ -167,7 +167,7 @@ footer nav a:hover{
 	width: 5rem;
 }
 .blog-footer{
-	border-top: 1px solid e6e6e6;
+	border-top: 1px solid;
 	margin: 0 auto;
 	padding-bottom: .125rem;
 	width: 80%;
@@ -175,7 +175,6 @@ footer nav a:hover{
 .blog-footer ul{
 	list-item: none;
 	display: flex;
-	flex: row wrap;
 	justify-content: flex-end;
 	padding-left: 0;
 }
